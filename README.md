@@ -84,4 +84,3 @@ A simple web application for inventory and sales management, built with Flask an
 ## Notes
 - The app is designed to run on a local network, accessible on a phone via the host’s IP address.
 - Minimal frontend effort, focusing on backend logic and PostgreSQL queries, as per the task.
-- For the interview, the GitHub repository showcases the code, with emphasis on SQL JOINs and query logic.
